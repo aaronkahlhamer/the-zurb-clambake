@@ -1,6 +1,6 @@
 The Clambake
-Traditional markup. Large container. Yummy deliciousness.
 =================
+Traditional markup. Large container. Yummy deliciousness.
 
 - Retina Logo
 - 100% Fluid Email with dual columns.
