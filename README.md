@@ -11,5 +11,6 @@ Fluid layouts thrive on max-width and min-width. Unfortunately Outlook products 
 
 [More details can be found at ZURB Playground.](http://www.zurb.com/playground/clambake)
 
+The original markup can be found at [http://jsfiddle.net/builtbymay/sUhAU/](http://jsfiddle.net/builtbymay/sUhAU/). Feel free to test it at [Litmus](http://litmus.com/).
 
 
